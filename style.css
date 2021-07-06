@@ -1,3 +1,60 @@
 body{
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+}
+section{
+    margin-bottom: 100px;
+}
+h1{
+    font-size: 60px;
+    font-weight: 7000;
+    line-height: 78px;
+}
+.font-color{
+    color: #FBA24F;
+}
+.link-button{
+    text-decoration: none;
+    padding: 20px 40px;
+    background-image: linear-gradient(#FF1E1E, #FBA24F);
+    border-radius: 30px;
+    font-weight: 700;
+    color: white;
+}
+.half-width{
+    width: 40%;
+}
+.padding-flexible{
+    padding-top: 100px;
+    padding-left: 10%;
+}
+.half-width img{
+    width: 100%;
+}
+.flexible-container{
+    display: flex;
+}
+p{
+    font-size: 20px;
+}
+.about-me{
+    display: flex;
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.about-half-width{
+    width: 40%;
+    padding: 3.5% 0% 2% 5%;
+}
+.about-half-width img{
+    width: 60%;
+    padding-left: 100px;
+}
+h2{
+    font-size: 40px;
+    font-weight: 700;
+}
+.about-padding-flexible{
+    padding-top: 100px;
+    line-height: 32px;
 }
