@@ -75,9 +75,28 @@ h2{
 
 }
 .my-recipi{
-    padding: 50px;
+    padding: 100px;
 }
 h3{
     font-size: 28px;
     font-weight: 800;
+}
+.social-media{
+padding-left: 180px;
+}
+.social-media-area{
+    border-radius: 30px;
+    margin: 35px;
+    box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.15);
+}
+footer{
+    text-align: center;
+    padding: 100px;
+    background-color: black;
+}
+.footer-font-color{
+    color: gray;
+}
+footer p{
+    color: rgb(201, 238, 146);
 }
